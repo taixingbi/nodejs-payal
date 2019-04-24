@@ -1,6 +1,9 @@
 
-
+#### install paypal-rest-sdk
 npm install --save  paypal-rest-sdk express ejs
+
+#### start
+node app.js
 
 
 #### Client ID
